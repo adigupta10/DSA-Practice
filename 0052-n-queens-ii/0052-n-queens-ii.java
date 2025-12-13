@@ -1,8 +1,13 @@
 class Solution {
     char[][] board;
+    List<List<String>> ans=new ArrayList<>();
     int N;
-    int count;
-    private boolean isSafe(int row , int col){
+    private List<String> convert(char[][] board){
+        List<String> temp=new ArrayList<>();
+        for(char[] i:board) temp.add(new String(i));   // {'.','Q','.','.'} -> ["..Q."]  and so on
+        return temp;
+    }
+    private boolean isSafe(char[][] board,int row , int col){
         //look upward
         for(int i=row-1;i>=0;i--){
             if(board[i][col]=='Q') return false;
@@ -17,17 +22,17 @@ class Solution {
         }
         return true;
     }
-    private void solve(int row){
+    private void solve(char[][] board,int row){
         if(row>=N){
-            count++;
+            ans.add(convert(board));  // to convert board(2r array) into listOfString we use another function
             return;
         }
         for(int col=0;col<N;col++){
-            if(isSafe(row,col)){
+            if(isSafe(board,row,col)){
                 //do
                 board[row][col]='Q';
                 //explore
-                solve(row+1);
+                solve(board,row+1);
                 //undo
                 board[row][col]='.';
             }    
@@ -39,8 +44,8 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(board[i],'.');
         }
-        solve(0);
-        return count;
+        solve(board,0);
+        return ans.size();
 
     }
 }
