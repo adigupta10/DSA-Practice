@@ -1,19 +1,24 @@
 class Solution {
     public String makeGood(String s) {
-       StringBuilder res=new StringBuilder(s);
-        int i=0;
-        while(i<res.length()-1){
-            char first=res.charAt(i);
-            char second=res.charAt(i+1);
-            if((Character.toUpperCase(first)==second || Character.toUpperCase(second)==first) && first!=second)
-            {
-                    res.delete(i,i+2);
-                    if(i>0) i--;
-                }
-            else{
-                i++;
+        Stack<Character> st=new Stack<>();
+        int n=s.length();
+        st.push(s.charAt(0));
+        int i=1;
+        while(i<n){
+            char f=s.charAt(i);
+            if(!st.isEmpty() && Math.abs(st.peek()-f)==32){
+                st.pop();
             }
+            else{
+                st.push(s.charAt(i));
+            }
+            i++;
         }
-        return res.toString(); 
+        StringBuilder ans=new StringBuilder();
+        while(!st.isEmpty()){
+            ans.append(st.pop());
+        }
+        ans.reverse();
+        return ans.toString();
     }
 }
