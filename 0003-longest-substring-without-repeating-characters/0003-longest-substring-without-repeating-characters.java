@@ -1,24 +1,40 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-      Set<Character>set=new HashSet<>();
-              int maxLength=0;
-                      int left=0;
-                              for(int right=0;right<s.length();right++){
+        if(s.length()==0 || s==null) return 0;
+        if(s==" ") return 1;
+        HashSet<Character> set=new HashSet<>();
 
-                                                     if(!set.contains(s.charAt(right))){
-                                                                     set.add(s.charAt(right));
-                                                                                     maxLength=Math.max(maxLength,right-left+1);
-
-                                                                                                                 }else{
-                                                                                                                                 while(s.charAt(left)!=s.charAt(right)){
-                                                                                                                                                     set.remove(s.charAt(left));
-                                                                                                                                                                         left++;
-                                                                                                                                                                                         }
-                                                                                                                                                                                                         set.remove(s.charAt(left));left++;
-                                                                                                                                                                                                                         set.add(s.charAt(right));
-                                                                                                                                                                                                                                     }
-
-                                                                                                                                                                                                                                                         }
-                                                                                                                                                                                                                                                                 return maxLength;  
+        int left=0;
+        int maxi=0;
+        int i=0;
+        while(i<s.length()){
+            char ch=s.charAt(i);
+            if(set.contains(ch)){
+                set.remove(s.charAt(left));
+                left++;
+            }
+            else{
+                set.add(ch);
+                maxi=Math.max(maxi,i-left+1);
+                i++;
+            }
+        }
+        return maxi;
     }
 }
+
+//  int max=0;
+//         for(int i=0;i<s.length();i++){
+//             HashSet<Character> set=new HashSet<>();
+//             for(int j=i;j<s.length();j++){
+//                 char ch=s.charAt(j);
+//                 if(set.contains(ch)){
+//                     max=Math.max(max,j-i);
+//                     break;
+//                 }
+//                 else{
+//                     set.add(ch);
+//                 }
+//             }
+//         }
+//         return max;
