@@ -1,17 +1,34 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
-        StringBuilder sb=new StringBuilder(s);
-        int i=0;
-        while(i<=sb.length()-part.length()){
-            char ch=sb.charAt(i);
-            if(sb.substring(i,i+part.length()).equals(part)){
-                sb.delete(i,i+part.length());
-                if(i>0) i--;
-            }
-            else{
-                i++;
+        Stack<Character> st=new Stack<>();
+        int k=part.length();
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            st.push(s.charAt(i));
+            if(st.size()>=k){
+                int j=k-1;
+                boolean found=true;
+
+               for(int a=0;a<k;a++){
+                    if(st.get(st.size()-1-a)!=part.charAt(j)){  //we are not using st.peek() because it never moves , it will check only the first element
+                        found=false;
+                        break;
+                    }
+                    
+                    j--;
+                    
+               }
+               if(found){
+                for(int d=0;d<k;d++){
+                    st.pop();
+                }
+               }
             }
         }
-        return sb.toString();
+        String ans="";
+        while(!st.isEmpty()){
+            ans=st.pop()+ans;
+        }
+        return ans;
     }
 }
