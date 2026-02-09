@@ -8,7 +8,6 @@ class Solution {
         vis[node]=true;
         for(int neigh : rooms.get(node)){
             if(!vis[neigh]){
-                vis[node]=true;
                 isReachable(rooms,neigh,vis);
             }
         }
