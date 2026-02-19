@@ -1,25 +1,19 @@
 class Solution {
-    static int[][] dp;
-    public int solve(int i,int j,int n,int m,int[][] grid){
-        if(i>=n || j>=m) return Integer.MAX_VALUE;
-        if(i==n-1 && j==m-1) return grid[i][j];
-        
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        int downsum=solve(i,j+1,n,m,grid);
-        int rightsum=solve(i+1,j,n,m,grid);
-
-        return dp[i][j]=grid[i][j]+Math.min(downsum,rightsum);
-    }
-
     public int minPathSum(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        dp=new int[n][m];
-        for(int[] i: dp){
-            Arrays.fill(i,-1);
+        int[][] cost =new int[n][m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i==0 && j==0)  cost[0][0]=grid[0][0];
+                else{
+                    int left=(j>0) ? cost[i][j-1] :  Integer.MAX_VALUE ;
+                    int up=(i>0) ? cost[i-1][j] :  Integer.MAX_VALUE ;
+
+                    cost[i][j]=grid[i][j] + Math.min(left,up);
+                }
+            }
         }
-        int ans=solve(0,0,n,m,grid);
-        return ans;
+        return cost[n-1][m-1];
     }
 }
