@@ -1,25 +1,18 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        int maxi=0;
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            HashMap<Character,Integer> map=new HashMap<>();
-            for(int j=i;j<n;j++){
-                boolean flag=true;
-                char ch=s.charAt(j);
-                map.put(ch,map.getOrDefault(ch,0)+1);                
-                for(char key :map.keySet()){
-                    if(map.get(key)<k){
-                        flag=false;
-                        break;
-                    }
-                }
-                if(flag){
-                    maxi=Math.max(maxi,j-i+1);
-                }
-
+        if(s.length()<k) return 0;
+        int[] freq=new int[26];
+        for(char ch : s.toCharArray()){
+            freq[ch-'a']++;
+        }
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            if(freq[ch-'a']<k){
+                int left=longestSubstring(s.substring(0,i),k);
+                int right=longestSubstring(s.substring(i+1),k);
+                return Math.max(left,right);
             }
         }
-        return maxi;
+        return s.length();
     }
 }
