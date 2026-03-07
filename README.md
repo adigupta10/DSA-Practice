@@ -26,6 +26,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,12 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 <!---LeetCode Topics End-->
