@@ -24,6 +24,7 @@ Email-adigupta7611@gmail.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -54,6 +55,7 @@ Email-adigupta7611@gmail.com
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Email-adigupta7611@gmail.com
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Binary Search
@@ -72,4 +75,12 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
