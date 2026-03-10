@@ -32,6 +32,7 @@ Email-adigupta7611@gmail.com
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -104,4 +105,12 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
