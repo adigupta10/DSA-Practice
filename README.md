@@ -90,6 +90,7 @@ Email-adigupta7611@gmail.com
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -99,6 +100,7 @@ Email-adigupta7611@gmail.com
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
@@ -107,6 +109,7 @@ Email-adigupta7611@gmail.com
 | [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -148,5 +151,6 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
