@@ -15,19 +15,23 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> l=new ArrayList<>();
-        solve(root,l);
-        for(int i=1;i<l.size();i++){
-           if(l.get(i)<=l.get(i-1)){
-            return false;
-           }
-        }
-        return true;
+        if(root==null) return true;
+
+        if(root.left!=null && findMax(root.left)>=root.val) return false;
+        if(root.right!=null && findMin(root.right)<=root.val) return false;
+
+        return isValidBST(root.left) && isValidBST(root.right);
     }
-    public void solve(TreeNode root,ArrayList<Integer> l){
-        if(root==null) return;
-        solve(root.left,l);
-        l.add(root.val);
-        solve(root.right,l);
+    public static int findMax(TreeNode root){
+        while(root.right!=null){
+            root=root.right;
+        }
+        return root.val;
+    }
+    public static int findMin(TreeNode root){
+        while(root.left!=null){
+            root=root.left;
+        }
+        return root.val;
     }
 }
