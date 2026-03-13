@@ -86,6 +86,7 @@ Email-adigupta7611@gmail.com
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -94,6 +95,7 @@ Email-adigupta7611@gmail.com
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -102,6 +104,7 @@ Email-adigupta7611@gmail.com
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -144,5 +147,6 @@ Email-adigupta7611@gmail.com
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
