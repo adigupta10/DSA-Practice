@@ -22,7 +22,9 @@ class Solution {
         }
         set.add(root.val);
 
-        return findTarget(root.left,k) || findTarget(root.right,k);
+        if(findTarget(root.left,k)) return true;
+        if(findTarget(root.right,k)) return true;
+        return false;
     }
     
 }
