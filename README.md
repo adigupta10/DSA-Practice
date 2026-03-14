@@ -28,6 +28,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
@@ -97,6 +98,7 @@ Email-adigupta7611@gmail.com
 | [0450-delete-node-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -113,6 +115,7 @@ Email-adigupta7611@gmail.com
 | [0450-delete-node-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -126,6 +129,7 @@ Email-adigupta7611@gmail.com
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
@@ -133,6 +137,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -146,6 +151,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +178,7 @@ Email-adigupta7611@gmail.com
 | [0450-delete-node-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
