@@ -136,6 +136,7 @@ Email-adigupta7611@gmail.com
 | [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -146,6 +147,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
+| [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -205,4 +207,12 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
