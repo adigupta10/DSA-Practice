@@ -47,11 +47,13 @@ Email-adigupta7611@gmail.com
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Email-adigupta7611@gmail.com
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +200,9 @@ Email-adigupta7611@gmail.com
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 <!---LeetCode Topics End-->
