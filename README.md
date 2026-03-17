@@ -136,6 +136,7 @@ Email-adigupta7611@gmail.com
 | [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -147,6 +148,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
+| [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -210,9 +212,11 @@ Email-adigupta7611@gmail.com
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
