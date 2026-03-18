@@ -44,6 +44,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
@@ -90,6 +91,7 @@ Email-adigupta7611@gmail.com
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
@@ -183,6 +185,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ Email-adigupta7611@gmail.com
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
