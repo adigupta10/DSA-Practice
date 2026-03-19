@@ -187,6 +187,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Email-adigupta7611@gmail.com
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -245,4 +247,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
