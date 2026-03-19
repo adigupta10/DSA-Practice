@@ -100,6 +100,7 @@ Email-adigupta7611@gmail.com
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1029-two-city-scheduling](https://github.com/adigupta10/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -193,6 +194,7 @@ Email-adigupta7611@gmail.com
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +257,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 <!---LeetCode Topics End-->
