@@ -34,3 +34,83 @@ class Solution {
         return false;
     }
 }
+// class Solution {
+
+//     public boolean containsCycle(char[][] grid) {
+
+//         int n = grid.length;
+//         int m = grid[0].length;
+
+//         boolean[][] vis = new boolean[n][m];
+
+//         for(int i = 0; i < n; i++){
+//             for(int j = 0; j < m; j++){
+
+//                 if(!vis[i][j]){
+//                     if(bfs(i, j, vis, grid))
+//                         return true;
+//                 }
+//             }
+//         }
+//         return false;
+//     }
+
+//     public boolean bfs(int si, int sj,
+//                        boolean[][] vis, char[][] grid){
+
+//         Queue<int[]> q = new LinkedList<>();
+//         q.offer(new int[]{si, sj, -1, -1});
+//         vis[si][sj] = true;
+
+//         while(!q.isEmpty()){
+
+//             int[] cur = q.poll();
+//             int i = cur[0];
+//             int j = cur[1];
+//             int pi = cur[2];
+//             int pj = cur[3];
+
+//             // LEFT
+//             if(j-1 >= 0 && grid[i][j-1] == grid[i][j]){
+//                 if(vis[i][j-1] && !(i == pi && j-1 == pj))
+//                     return true;
+//                 if(!vis[i][j-1]){
+//                     vis[i][j-1] = true;
+//                     q.offer(new int[]{i, j-1, i, j});
+//                 }
+//             }
+
+//             // RIGHT
+//             if(j+1 < grid[0].length && grid[i][j+1] == grid[i][j]){
+//                 if(vis[i][j+1] && !(i == pi && j+1 == pj))
+//                     return true;
+//                 if(!vis[i][j+1]){
+//                     vis[i][j+1] = true;
+//                     q.offer(new int[]{i, j+1, i, j});
+//                 }
+//             }
+
+//             // UP
+//             if(i-1 >= 0 && grid[i-1][j] == grid[i][j]){
+//                 if(vis[i-1][j] && !(i-1 == pi && j == pj))
+//                     return true;
+//                 if(!vis[i-1][j]){
+//                     vis[i-1][j] = true;
+//                     q.offer(new int[]{i-1, j, i, j});
+//                 }
+//             }
+
+//             // DOWN
+//             if(i+1 < grid.length && grid[i+1][j] == grid[i][j]){
+//                 if(vis[i+1][j] && !(i+1 == pi && j == pj))
+//                     return true;
+//                 if(!vis[i+1][j]){
+//                     vis[i+1][j] = true;
+//                     q.offer(new int[]{i+1, j, i, j});
+//                 }
+//             }
+//         }
+
+//         return false;
+//     }
+// }
