@@ -105,6 +105,7 @@ Email-adigupta7611@gmail.com
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1029-two-city-scheduling](https://github.com/adigupta10/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -166,6 +167,7 @@ Email-adigupta7611@gmail.com
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Email-adigupta7611@gmail.com
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,8 +272,10 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
