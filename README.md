@@ -91,6 +91,7 @@ Email-adigupta7611@gmail.com
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
@@ -159,6 +160,7 @@ Email-adigupta7611@gmail.com
 | [0098-validate-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -174,6 +176,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/adigupta10/DSA-Practice/tree/main/0322-coin-change/) | Medium |
@@ -274,12 +277,14 @@ Email-adigupta7611@gmail.com
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
