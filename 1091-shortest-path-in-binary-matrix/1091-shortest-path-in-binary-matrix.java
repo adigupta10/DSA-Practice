@@ -1,36 +1,34 @@
 class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
+        int[][] dir={{1,0},{0,1},{-1,0},{0,-1},{-1,-1},{1,1},{-1,1},{1,-1}};
         int n=grid.length;
-        if(grid[0][0]==1 || grid[n-1][n-1]==1){
-            return -1;
-        }
-        int[][] dir={{0,-1},{0,1},{-1,0},{1,0},{1,1},{-1,-1},{-1,1},{1,-1}};
-        boolean[][] vis=new boolean[n][n];
-        Queue<int[]> q=new LinkedList<>();
+        int m=grid[0].length;
+        if(grid[0][0]!=0) return -1;
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)-> a[0]-b[0]);
+        pq.offer(new int[]{0,0,0}); // currDis,i,j
+        int[][] dis=new int[n][m];
+        for(int[] e:dis) Arrays.fill(e,Integer.MAX_VALUE);
+        dis[0][0]=0;
+        while(!pq.isEmpty()){
+            int[] curr=pq.poll();
+            int currDis=curr[0];
+            int x=curr[1];
+            int y=curr[2];
 
-        q.add(new int[]{1,0,0}); //dis , row , col
-        vis[0][0]=true;
+            //if(x==n-1 && y==m-1) return currDis;
+            for(int[] di:dir){
+                int nx=x+di[0];
+                int ny=y+di[1];
 
-        while(!q.isEmpty()){
-            int[] curr=q.poll();
-            int d=curr[0];
-            int r=curr[1];
-            int c=curr[2];
-
-            if(r==n-1 && c==n-1 ){
-                return d;
-            }
-
-            for(int[] di : dir){
-                int nr=r+di[0];
-                int nc=c+di[1];
-
-                if(nr >=0 && nc>=0  && nr<n && nc<n && !vis[nr][nc] && grid[nr][nc]==0){
-                    vis[nr][nc]=true;
-                    q.add(new int[]{d+1,nr,nc});
+                if(nx>=0 && ny>=0 && nx<n && ny<m && grid[nx][ny]==0){
+                    if(currDis +1 < dis[nx][ny]){
+                        dis[nx][ny]=1+currDis;
+                        pq.offer(new int[]{dis[nx][ny],nx,ny});
+                    }
                 }
             }
         }
-        return -1;
+        return dis[n-1][m-1] ==Integer.MAX_VALUE ? -1 : dis[n-1][m-1]+1;
+
     }
 }
