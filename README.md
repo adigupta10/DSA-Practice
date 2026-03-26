@@ -60,6 +60,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Bucket Sort
@@ -173,6 +174,7 @@ Email-adigupta7611@gmail.com
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
@@ -190,6 +192,7 @@ Email-adigupta7611@gmail.com
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -270,6 +273,7 @@ Email-adigupta7611@gmail.com
 | [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -303,4 +307,8 @@ Email-adigupta7611@gmail.com
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
