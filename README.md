@@ -223,6 +223,7 @@ Email-adigupta7611@gmail.com
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,11 +276,13 @@ Email-adigupta7611@gmail.com
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/adigupta10/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +314,5 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
