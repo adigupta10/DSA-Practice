@@ -101,6 +101,7 @@ Email-adigupta7611@gmail.com
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
