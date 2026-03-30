@@ -96,6 +96,7 @@ Email-adigupta7611@gmail.com
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/adigupta10/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -120,6 +121,7 @@ Email-adigupta7611@gmail.com
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ Email-adigupta7611@gmail.com
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/adigupta10/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
