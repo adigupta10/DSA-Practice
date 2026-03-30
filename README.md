@@ -102,6 +102,7 @@ Email-adigupta7611@gmail.com
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -225,6 +226,7 @@ Email-adigupta7611@gmail.com
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/adigupta10/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -319,4 +321,12 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
