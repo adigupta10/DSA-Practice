@@ -1,27 +1,21 @@
 class Solution {
-    static int maxi=0;
-    static int[][] dp;
     public int longestStrChain(String[] words) {
-       int n=words.length;
        Arrays.sort(words,(a,b)-> a.length()-b.length());
-       dp=new int[n][n+1];
-       for(int[] x: dp){
-        Arrays.fill(x,-1);
-       }
-       int ans=solve(0,-1,words);
-       return ans;
-    }
-    public static int solve(int curr,int prev,String[] words){
-        if(curr>=words.length) return 0;
-
-        if(dp[curr][prev+1]!=-1) return dp[curr][prev+1];
-
-        int taken=0;
-        if(prev==-1 || isPre(words[prev],words[curr])){
-            taken=1+ solve(curr+1,curr,words);
+       int n=words.length;
+       int maxi=1;
+       int[] dp=new int[n];
+       Arrays.fill(dp,1);
+       for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(isPre(words[j],words[i])){
+                    if(dp[j]+1>dp[i]){
+                        dp[i]=dp[j]+1;
+                        maxi=Math.max(maxi,dp[i]);
+                    }
+                }
+            }
         }
-        int nottaken=solve(curr+1,prev,words);
-        return dp[curr][prev+1]=Math.max(taken,nottaken);
+        return maxi;
     }
     public static boolean isPre(String x, String y){
         int p=x.length();
