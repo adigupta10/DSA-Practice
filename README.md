@@ -28,6 +28,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -105,6 +106,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/adigupta10/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -133,6 +135,7 @@ Email-adigupta7611@gmail.com
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -242,6 +245,7 @@ Email-adigupta7611@gmail.com
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/adigupta10/DSA-Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Quickselect
