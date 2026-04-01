@@ -267,6 +267,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +356,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 <!---LeetCode Topics End-->
