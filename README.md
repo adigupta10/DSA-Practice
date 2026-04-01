@@ -97,6 +97,7 @@ Email-adigupta7611@gmail.com
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
@@ -231,6 +232,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -273,6 +275,7 @@ Email-adigupta7611@gmail.com
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
