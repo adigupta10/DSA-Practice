@@ -17,7 +17,7 @@ class Solution {
                 -arr[curr] + solve(curr+1,1,arr),
                     0 +     solve(curr+1,0,arr) );
         }
-        if(state==1){
+        else{
             take=Math.max(
                 arr[curr] + solve(curr+1,0,arr),
                   0 +       solve(curr+1,1,arr)  );
