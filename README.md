@@ -135,6 +135,7 @@ Email-adigupta7611@gmail.com
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -343,6 +344,7 @@ Email-adigupta7611@gmail.com
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
