@@ -1,32 +1,20 @@
 class Solution {
-    static int maxi=0;
-    static int[][] dp;
-    public int maximalSquare(char[][] mat) { 
-          maxi=0; // dussre test cases ke liye wapis reset ho jaega
-        int n=mat.length;   
-        int m=mat[0].length;  
-        dp=new int[n][m];
-        for(int[] x:dp) Arrays.fill(x,-1); 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                solve(i,j,mat);
+    public int maximalSquare(char[][] mat) {
+       int n=mat.length;
+       int m=mat[0].length;
+       int maxi=0;
+       int[][] dp=new int[n+1][m+1];
+       for(int i=n-1;i>=0;i--){
+        for(int j=m-1;j>=0;j--){
+            if(mat[i][j]=='0'){
+                dp[i][j]=0;
+            }
+            else{
+                dp[i][j]=1+Math.min(dp[i][j+1],Math.min(dp[i+1][j+1],dp[i+1][j]));
+                maxi=Math.max(maxi,dp[i][j]);
             }
         }
-        return maxi*maxi;
-    }
-    public static int solve(int i, int j, char[][] mat){
-        if(i>=mat.length || j>=mat[0].length) return 0;
-
-        if(mat[i][j]=='0') return dp[i][j]=0;
-
-        if(dp[i][j]!=-1) return dp[i][j];
-       int right=solve(i,j+1,mat);
-       int dia=solve(i+1,j+1,mat);
-       int down=solve(i+1,j,mat);
-
-       int ans=1+ Math.min(right,Math.min(dia,down));
-       maxi=Math.max(maxi,ans);
-
-       return dp[i][j]=ans;
+       }
+       return maxi*maxi; 
     }
 }
