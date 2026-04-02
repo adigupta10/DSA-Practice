@@ -90,6 +90,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Email-adigupta7611@gmail.com
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
