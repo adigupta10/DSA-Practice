@@ -128,6 +128,7 @@ Email-adigupta7611@gmail.com
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -255,6 +256,7 @@ Email-adigupta7611@gmail.com
 | [0746-min-cost-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -338,6 +340,7 @@ Email-adigupta7611@gmail.com
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Union-Find
