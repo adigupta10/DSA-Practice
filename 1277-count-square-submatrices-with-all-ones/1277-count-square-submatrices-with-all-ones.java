@@ -1,26 +1,28 @@
 class Solution {
+    static int[][] dp;
+    public static int solve(int i, int j, int[][] mat){
+        if(i>=mat.length || j>=mat[0].length) return 0;
+
+        if(mat[i][j]==0) return dp[i][j]=0;
+
+        if(dp[i][j]!=-1) return dp[i][j];
+
+        int right=solve(i,j+1,mat);
+        int dia=solve(i+1,j+1,mat);
+        int down=solve(i+1,j,mat);
+
+        int ans=1+Math.min(right,Math.min(dia, down));
+        return dp[i][j]=ans;
+    }
     public int countSquares(int[][] mat) {
+        int sum=0;
         int n=mat.length;
         int m=mat[0].length;
-        int sum=0;
-        // last row sum
-        for(int i=0;i<m;i++){
-            sum+=mat[n-1][i];
-        }
-       // last col sum
+        dp=new int[n][m];
+        for(int[]x:dp) Arrays.fill(x,-1);
         for(int i=0;i<n;i++){
-            sum+=mat[i][m-1];
-        }
-
-        // mat[n-1][m-1] do baar count ho rha hai
-        sum-=mat[n-1][m-1];
-        
-        for(int i=n-2;i>=0;i--){
-            for(int j=m-2;j>=0;j--){
-                if(mat[i][j]==1){
-                   mat[i][j]=1+Math.min(mat[i][j+1],Math.min(mat[i+1][j+1],mat[i+1][j]));
-                    sum+=mat[i][j];
-                }
+            for(int j=0;j<m;j++){
+                sum+=solve(i,j,mat);
             }
         }
         return sum;
