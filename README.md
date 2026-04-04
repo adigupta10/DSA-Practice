@@ -97,6 +97,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -243,6 +244,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/adigupta10/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adigupta10/DSA-Practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -341,6 +343,7 @@ Email-adigupta7611@gmail.com
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0221-maximal-square](https://github.com/adigupta10/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
