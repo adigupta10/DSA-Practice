@@ -284,6 +284,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/adigupta10/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
@@ -389,4 +390,12 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/adigupta10/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
