@@ -142,6 +142,7 @@ Email-adigupta7611@gmail.com
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@ Email-adigupta7611@gmail.com
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@ Email-adigupta7611@gmail.com
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
