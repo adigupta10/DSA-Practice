@@ -45,6 +45,7 @@ Email-adigupta7611@gmail.com
 | [0647-palindromic-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@ Email-adigupta7611@gmail.com
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
