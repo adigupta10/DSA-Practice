@@ -1,19 +1,18 @@
 class Solution {
-    static int n;
-    static int[][] dp;
     public int minInsertions(String s) {
-        n=s.length();
-        dp=new int[n][n];
-        for(int[] x:dp) Arrays.fill(x,-1);
-        return solve(0,n-1,s);
-    }
-    public static int solve(int i,int j,String s){
-        if(i>j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s.charAt(i)==s.charAt(j)){
-            return solve(i+1,j-1,s);
-        }
-        int insert= Math.min(1+solve(i+1,j,s),1+solve(i,j-1,s));
-        return dp[i][j]=insert;
+       int n=s.length();
+       int[][] dp=new int[n][n]; 
+       for(int L=2;L<=n;L++){
+            for(int i=0;i+L-1<n;i++){
+                int j=i+L-1;
+                if(s.charAt(i)==s.charAt(j)){
+                    dp[i][j]=dp[i+1][j-1];
+                }
+                else{
+                    dp[i][j]=1+Math.min(dp[i+1][j],dp[i][j-1]);
+                }
+            }
+       }
+       return dp[0][n-1];
     }
 }
