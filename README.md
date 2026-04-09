@@ -40,6 +40,7 @@ Email-adigupta7611@gmail.com
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0072-edit-distance](https://github.com/adigupta10/DSA-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0087-scramble-string](https://github.com/adigupta10/DSA-Practice/tree/main/0087-scramble-string/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0647-palindromic-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
@@ -161,6 +162,7 @@ Email-adigupta7611@gmail.com
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
@@ -266,6 +268,7 @@ Email-adigupta7611@gmail.com
 | [0120-triangle](https://github.com/adigupta10/DSA-Practice/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adigupta10/DSA-Practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0174-dungeon-game](https://github.com/adigupta10/DSA-Practice/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adigupta10/DSA-Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
