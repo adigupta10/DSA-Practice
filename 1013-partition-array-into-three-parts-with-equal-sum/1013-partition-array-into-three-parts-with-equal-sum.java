@@ -8,7 +8,7 @@ class Solution {
         int target=sum/3;
         int currSum=0;
         int count=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-1;i++){
             currSum+=arr[i];
             if(target==currSum){
                 currSum=0;
