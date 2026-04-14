@@ -1,37 +1,32 @@
 class Solution {
-    static int n;
-    static int m;
+    
     public int swimInWater(int[][] grid) {
-        //binary search + dfs-froms src(0,0) to (n-1,m-1)
-        n=grid.length;
-        m=grid[0].length;
-        int left=0;
-        int right=n*n-1;
-        int ans=n*n;
-        while(left<=right){
-            int mid=left+(right-left)/2;
-            boolean[][] vis=new boolean[n][m];
-            if(possibleToReach(0,0,mid,grid,vis)){
-                right=mid-1;
-                ans=mid;
-            }
-            else{
-                left=mid+1;
+        int[][] dir={{0,1},{1,0},{0,-1},{-1,0}};
+        int n=grid.length;
+        boolean[][] vis=new boolean[n][n];
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)-> a[0]-b[0]);
+        pq.offer(new int[]{grid[0][0],0,0});  // time , i, j
+
+        while(!pq.isEmpty()){
+            int[] curr=pq.poll();
+            int time=curr[0];
+            int x=curr[1];
+            int y=curr[2];
+
+            if(x==n-1 && y==n-1) return time;
+            if(vis[x][y]) continue;
+            vis[x][y]=true;
+
+            for(int[] d:dir){
+                int nx= x + d[0];
+                int ny= y + d[1];
+
+                if(nx>=0 && ny>=0 && nx<n && ny<n && !vis[nx][ny]){
+                    int maxTime=Math.max(time,grid[nx][ny]);
+                    pq.add(new int[]{maxTime,nx,ny});
+                }
             }
         }
-        return ans;
-    }
-    public static boolean possibleToReach(int i,int j,int ans,int[][] grid,boolean[][] vis){
-
-        if(i<0 || j<0 || i>=n || j>=m || vis[i][j] || grid[i][j]>ans) return false;
-        vis[i][j]=true;
-        if(i==n-1 && j==m-1) return true;
-
-        boolean down=possibleToReach(i+1,j,ans,grid,vis);
-        boolean up=possibleToReach(i-1,j,ans,grid,vis);
-        boolean right=possibleToReach(i,j+1,ans,grid,vis);
-        boolean left=possibleToReach(i,j-1,ans,grid,vis);
-
-        return down || up || right || left;
+        return -1; // we will not reach here
     }
 }
