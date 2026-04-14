@@ -224,6 +224,7 @@ Email-adigupta7611@gmail.com
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ Email-adigupta7611@gmail.com
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Linked List
@@ -365,6 +367,7 @@ Email-adigupta7611@gmail.com
 | [0547-number-of-provinces](https://github.com/adigupta10/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -406,6 +409,7 @@ Email-adigupta7611@gmail.com
 | [0695-max-area-of-island](https://github.com/adigupta10/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adigupta10/DSA-Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
