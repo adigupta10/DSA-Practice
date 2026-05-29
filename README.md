@@ -181,6 +181,7 @@ Email-adigupta7611@gmail.com
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0400-nth-digit](https://github.com/adigupta10/DSA-Practice/tree/main/0400-nth-digit/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/adigupta10/DSA-Practice/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -351,6 +352,7 @@ Email-adigupta7611@gmail.com
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0400-nth-digit](https://github.com/adigupta10/DSA-Practice/tree/main/0400-nth-digit/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 ## Binary Search Tree
