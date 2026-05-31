@@ -276,6 +276,7 @@ Email-adigupta7611@gmail.com
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -486,4 +487,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/adigupta10/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
