@@ -1,23 +1,12 @@
 class Solution {
     public int minStartValue(int[] nums) {
-        int l=1;
-        int r=10000;
-        while(l<=r){
-            int mid=l+(r-l)/2;
-            if(solve(mid,nums)){
-                r=mid-1;
-            }
-            else{
-                l=mid+1;
-            }
+        int[] prefixSum=new int[nums.length];
+        int mini=Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++){
+            if(i==0) prefixSum[i]=nums[i];
+            else prefixSum[i]=prefixSum[i-1] + nums[i];
+            mini=Math.min(mini,prefixSum[i]);
         }
-        return l;
+        return mini>=1 ? 1 : Math.abs(mini)+1;
     }
-    public static boolean solve(int mid,int[] nums){
-        for(int i:nums){
-            mid+=i;
-            if(mid<1) return false;
-        }
-        return true;
-    } 
 }
