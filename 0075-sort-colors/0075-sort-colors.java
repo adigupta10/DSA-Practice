@@ -1,14 +1,26 @@
 class Solution {
+    public void swap(int a,int b,int[] nums){
+        
+        int temp=nums[a];
+        nums[a]=nums[b];
+        nums[b]=temp;
+        
+    }
     public void sortColors(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int i:nums){
-            map.put(i,map.getOrDefault(i,0)+1);
-        }
-        int index=0;
-        for(int j=0;j<3;j++){
-            int freq=map.getOrDefault(j,0);
-            for(int i=0;i<freq;i++){
-                nums[index++]=j;
+        int low=0,mid=0;
+        int high=nums.length-1;
+        while(mid<=high){
+            if(nums[mid]==0){
+                swap(low,mid,nums);
+                low++;
+                mid++;
+            }
+            else if(nums[mid]==1){
+                mid++;
+            }
+            else if(nums[mid]==2){
+                swap(high,mid,nums);
+                high--;
             }
         }
     }
