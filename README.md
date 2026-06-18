@@ -160,6 +160,7 @@ Email-adigupta7611@gmail.com
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -418,6 +419,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
+| [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
