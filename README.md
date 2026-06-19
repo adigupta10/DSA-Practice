@@ -174,6 +174,7 @@ Email-adigupta7611@gmail.com
 | [1991-find-the-middle-index-in-array](https://github.com/adigupta10/DSA-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adigupta10/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
@@ -296,6 +297,7 @@ Email-adigupta7611@gmail.com
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adigupta10/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
@@ -423,6 +425,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adigupta10/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
