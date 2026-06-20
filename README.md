@@ -24,6 +24,7 @@ Email-adigupta7611@gmail.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -119,6 +120,7 @@ Email-adigupta7611@gmail.com
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -439,6 +441,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/adigupta10/DSA-Practice/tree/main/0174-dungeon-game/) | Hard |
 | [0221-maximal-square](https://github.com/adigupta10/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
