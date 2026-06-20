@@ -113,6 +113,7 @@ Email-adigupta7611@gmail.com
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/adigupta10/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
@@ -194,6 +195,7 @@ Email-adigupta7611@gmail.com
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/adigupta10/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
