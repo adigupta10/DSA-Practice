@@ -116,6 +116,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/adigupta10/DSA-Practice/tree/main/0046-permutations/) | Medium |
+| [0054-spiral-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/adigupta10/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
@@ -429,6 +430,7 @@ Email-adigupta7611@gmail.com
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adigupta10/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -439,6 +441,7 @@ Email-adigupta7611@gmail.com
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
