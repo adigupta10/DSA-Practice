@@ -58,6 +58,7 @@ Email-adigupta7611@gmail.com
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/adigupta10/DSA-Practice/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -119,6 +120,7 @@ Email-adigupta7611@gmail.com
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/adigupta10/DSA-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/adigupta10/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -306,6 +308,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0018-4sum](https://github.com/adigupta10/DSA-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
