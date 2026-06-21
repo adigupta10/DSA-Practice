@@ -37,6 +37,7 @@ Email-adigupta7611@gmail.com
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adigupta10/DSA-Practice/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ Email-adigupta7611@gmail.com
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adigupta10/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
