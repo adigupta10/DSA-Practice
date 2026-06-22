@@ -130,6 +130,7 @@ Email-adigupta7611@gmail.com
 | [0064-minimum-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adigupta10/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/adigupta10/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -200,6 +201,7 @@ Email-adigupta7611@gmail.com
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
