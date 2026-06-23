@@ -142,6 +142,7 @@ Email-adigupta7611@gmail.com
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adigupta10/DSA-Practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/adigupta10/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
+| [0162-find-peak-element](https://github.com/adigupta10/DSA-Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0174-dungeon-game](https://github.com/adigupta10/DSA-Practice/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adigupta10/DSA-Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
@@ -208,6 +209,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/adigupta10/DSA-Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
