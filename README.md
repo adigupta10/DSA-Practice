@@ -191,6 +191,7 @@ Email-adigupta7611@gmail.com
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/adigupta10/DSA-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -214,6 +215,7 @@ Email-adigupta7611@gmail.com
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/adigupta10/DSA-Practice/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -482,6 +484,7 @@ Email-adigupta7611@gmail.com
 | [1572-matrix-diagonal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Union-Find
