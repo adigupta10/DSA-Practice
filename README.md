@@ -24,6 +24,7 @@ Email-adigupta7611@gmail.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/adigupta10/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0229-majority-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -122,6 +123,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0018-4sum](https://github.com/adigupta10/DSA-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
+| [0041-first-missing-positive](https://github.com/adigupta10/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/adigupta10/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
