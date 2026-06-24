@@ -186,6 +186,7 @@ Email-adigupta7611@gmail.com
 | [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adigupta10/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adigupta10/DSA-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -220,6 +221,7 @@ Email-adigupta7611@gmail.com
 | [0778-swim-in-rising-water](https://github.com/adigupta10/DSA-Practice/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adigupta10/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adigupta10/DSA-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Backtracking
