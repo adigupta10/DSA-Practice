@@ -90,6 +90,7 @@ Email-adigupta7611@gmail.com
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/adigupta10/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/adigupta10/DSA-Practice/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1046-last-stone-weight](https://github.com/adigupta10/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Bucket Sort
@@ -179,6 +180,7 @@ Email-adigupta7611@gmail.com
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1029-two-city-scheduling](https://github.com/adigupta10/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1046-last-stone-weight](https://github.com/adigupta10/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
