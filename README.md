@@ -191,6 +191,7 @@ Email-adigupta7611@gmail.com
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adigupta10/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adigupta10/DSA-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/adigupta10/DSA-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -228,6 +229,7 @@ Email-adigupta7611@gmail.com
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adigupta10/DSA-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adigupta10/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adigupta10/DSA-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/adigupta10/DSA-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Backtracking
