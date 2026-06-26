@@ -52,6 +52,7 @@ Email-adigupta7611@gmail.com
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0647-palindromic-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
+| [0796-rotate-string](https://github.com/adigupta10/DSA-Practice/tree/main/0796-rotate-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -554,4 +555,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/adigupta10/DSA-Practice/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
