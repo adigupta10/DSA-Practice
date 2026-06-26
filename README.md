@@ -56,6 +56,7 @@ Email-adigupta7611@gmail.com
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -410,6 +411,7 @@ Email-adigupta7611@gmail.com
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0400-nth-digit](https://github.com/adigupta10/DSA-Practice/tree/main/0400-nth-digit/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -438,6 +440,7 @@ Email-adigupta7611@gmail.com
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1029-two-city-scheduling](https://github.com/adigupta10/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
