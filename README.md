@@ -39,6 +39,7 @@ Email-adigupta7611@gmail.com
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adigupta10/DSA-Practice/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
@@ -61,6 +62,7 @@ Email-adigupta7611@gmail.com
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
@@ -113,6 +115,7 @@ Email-adigupta7611@gmail.com
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
