@@ -37,6 +37,7 @@ Email-adigupta7611@gmail.com
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adigupta10/DSA-Practice/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -111,6 +112,7 @@ Email-adigupta7611@gmail.com
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ Email-adigupta7611@gmail.com
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adigupta10/DSA-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
