@@ -24,6 +24,7 @@ Email-adigupta7611@gmail.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/adigupta10/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/adigupta10/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -44,6 +45,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/adigupta10/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0072-edit-distance](https://github.com/adigupta10/DSA-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0087-scramble-string](https://github.com/adigupta10/DSA-Practice/tree/main/0087-scramble-string/) | Hard |
 | [0097-interleaving-string](https://github.com/adigupta10/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
@@ -408,6 +410,7 @@ Email-adigupta7611@gmail.com
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/adigupta10/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/adigupta10/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
