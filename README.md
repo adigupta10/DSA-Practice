@@ -33,6 +33,7 @@ Email-adigupta7611@gmail.com
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adigupta10/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0888-fair-candy-swap](https://github.com/adigupta10/DSA-Practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -177,6 +178,7 @@ Email-adigupta7611@gmail.com
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/adigupta10/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adigupta10/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/adigupta10/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/adigupta10/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -464,6 +466,7 @@ Email-adigupta7611@gmail.com
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adigupta10/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/adigupta10/DSA-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
