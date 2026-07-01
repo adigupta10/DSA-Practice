@@ -46,6 +46,7 @@ Email-adigupta7611@gmail.com
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adigupta10/DSA-Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Email-adigupta7611@gmail.com
 | [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adigupta10/DSA-Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Email-adigupta7611@gmail.com
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adigupta10/DSA-Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2951-find-the-peaks](https://github.com/adigupta10/DSA-Practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/adigupta10/DSA-Practice/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
