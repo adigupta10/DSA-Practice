@@ -132,6 +132,7 @@ Email-adigupta7611@gmail.com
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -167,6 +168,7 @@ Email-adigupta7611@gmail.com
 | [0174-dungeon-game](https://github.com/adigupta10/DSA-Practice/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adigupta10/DSA-Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/adigupta10/DSA-Practice/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/adigupta10/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0229-majority-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -241,6 +243,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/adigupta10/DSA-Practice/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -472,6 +475,7 @@ Email-adigupta7611@gmail.com
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adigupta10/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
