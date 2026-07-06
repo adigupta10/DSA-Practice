@@ -58,6 +58,7 @@ Email-adigupta7611@gmail.com
 | [0097-interleaving-string](https://github.com/adigupta10/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/adigupta10/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -362,6 +363,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0155-min-stack](https://github.com/adigupta10/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -444,6 +446,7 @@ Email-adigupta7611@gmail.com
 | [0062-unique-paths](https://github.com/adigupta10/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
 | [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0400-nth-digit](https://github.com/adigupta10/DSA-Practice/tree/main/0400-nth-digit/) | Medium |
@@ -597,6 +600,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
