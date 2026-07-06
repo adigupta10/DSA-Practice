@@ -361,6 +361,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0155-min-stack](https://github.com/adigupta10/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -603,6 +604,7 @@ Email-adigupta7611@gmail.com
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/adigupta10/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
