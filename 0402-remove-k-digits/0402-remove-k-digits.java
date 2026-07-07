@@ -9,19 +9,17 @@ class Solution {
             }
             st.push(ch);
         }
+        while(k-->0){
+            st.pop();
+        }
         StringBuilder s=new StringBuilder();
         for(char ch : st){
             s.append(ch);
         }
-        int right=s.length()-1;
-        while(k!=0){
-            s.deleteCharAt(right);
-            right--;
-            k--;
-        }
-        while(s.charAt(0)=='0' && s.length()!=1){
-           s.deleteCharAt(0);
-        }    
-        return s.toString();
+        String x=s.toString();
+        int i=0;
+        while(i<x.length() && s.charAt(i)=='0') i++;
+        if(i==x.length()) return "0";
+        return x.substring(i,x.length());
     }
 }
