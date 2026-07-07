@@ -68,6 +68,7 @@ Email-adigupta7611@gmail.com
 | [0796-rotate-string](https://github.com/adigupta10/DSA-Practice/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -376,6 +377,7 @@ Email-adigupta7611@gmail.com
 | [0735-asteroid-collision](https://github.com/adigupta10/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -491,6 +493,7 @@ Email-adigupta7611@gmail.com
 | [0860-lemonade-change](https://github.com/adigupta10/DSA-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1029-two-city-scheduling](https://github.com/adigupta10/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -637,6 +640,7 @@ Email-adigupta7611@gmail.com
 | [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adigupta10/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
