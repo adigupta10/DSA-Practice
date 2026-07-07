@@ -372,6 +372,7 @@ Email-adigupta7611@gmail.com
 | [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/adigupta10/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
@@ -621,6 +622,7 @@ Email-adigupta7611@gmail.com
 | [0155-min-stack](https://github.com/adigupta10/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,4 +633,9 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/adigupta10/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
