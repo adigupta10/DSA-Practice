@@ -453,6 +453,7 @@ Email-adigupta7611@gmail.com
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adigupta10/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
