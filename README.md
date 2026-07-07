@@ -59,6 +59,7 @@ Email-adigupta7611@gmail.com
 | [0131-palindrome-partitioning](https://github.com/adigupta10/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/adigupta10/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -368,6 +369,7 @@ Email-adigupta7611@gmail.com
 | [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/adigupta10/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adigupta10/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -476,6 +478,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/adigupta10/DSA-Practice/tree/main/0134-gas-station/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -626,5 +629,6 @@ Email-adigupta7611@gmail.com
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/adigupta10/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adigupta10/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
