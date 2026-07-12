@@ -236,6 +236,7 @@ Email-adigupta7611@gmail.com
 | [1584-min-cost-to-connect-all-points](https://github.com/adigupta10/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -440,6 +441,7 @@ Email-adigupta7611@gmail.com
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adigupta10/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Bit Manipulation
