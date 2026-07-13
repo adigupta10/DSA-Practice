@@ -613,6 +613,7 @@ Email-adigupta7611@gmail.com
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/adigupta10/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2951-find-the-peaks](https://github.com/adigupta10/DSA-Practice/tree/main/2951-find-the-peaks/) | Easy |
 ## Combinatorics
