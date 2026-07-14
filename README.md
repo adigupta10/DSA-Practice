@@ -374,6 +374,7 @@ Email-adigupta7611@gmail.com
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adigupta10/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
@@ -397,6 +398,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/adigupta10/DSA-Practice/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adigupta10/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
