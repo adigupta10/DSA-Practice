@@ -377,6 +377,7 @@ Email-adigupta7611@gmail.com
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adigupta10/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
