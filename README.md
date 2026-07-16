@@ -28,6 +28,7 @@ Email-adigupta7611@gmail.com
 | [0041-first-missing-positive](https://github.com/adigupta10/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adigupta10/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adigupta10/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -377,6 +378,7 @@ Email-adigupta7611@gmail.com
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adigupta10/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adigupta10/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/adigupta10/DSA-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -402,6 +404,7 @@ Email-adigupta7611@gmail.com
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adigupta10/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/adigupta10/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/adigupta10/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adigupta10/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adigupta10/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
