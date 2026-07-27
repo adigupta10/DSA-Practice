@@ -1,36 +1,48 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        ArrayList<List<Integer>> l=new ArrayList<>();
-        ArrayList<List<Integer>> ans=new ArrayList<>();
-        for(int[] x: intervals){
-           l.add(new ArrayList<>(Arrays.asList(x[0],x[1])));
+        int[][] largeInterval=new int[intervals.length+1][2];
+        for(int i=0;i<intervals.length;i++){
+            largeInterval[i][0]=intervals[i][0];
+            largeInterval[i][1]=intervals[i][1];
         }
-        l.add(new ArrayList<>(Arrays.asList(newInterval[0],newInterval[1])));
-        Collections.sort(l,(a,b)-> a.get(0) - b.get(0));
-        int st=l.get(0).get(0);
-        int ed=l.get(0).get(1);
-        for(int i=1;i<l.size();i++){
-            int currst=l.get(i).get(0);
-            int curred=l.get(i).get(1);
-            if(currst<=ed){
-                ed=Math.max(ed,curred);
+        largeInterval[largeInterval.length-1][0]=newInterval[0];
+        largeInterval[largeInterval.length-1][1]=newInterval[1];
+
+        Arrays.sort(largeInterval,(a,b)->a[0]-b[0]);
+        
+
+        ArrayList<List<Integer>> l=new ArrayList<>();
+        int st=largeInterval[0][0];
+        int lastend=largeInterval[0][1];
+        boolean flag=true;
+        for(int[] x:largeInterval){
+            ArrayList<Integer> temp=new ArrayList<>();
+            if(flag){
+                flag=false;
+                continue;
+            }
+            int first=x[0];
+            if(first<=lastend){
+                lastend=Math.max(x[1],lastend);
             }
             else{
-                ans.add(new ArrayList<>(Arrays.asList(st,ed)));
-                st=currst;
-                ed=curred;
+                temp.add(st);
+                temp.add(lastend);
+                l.add(temp);
+                st=x[0];
+                lastend=x[1];
             }
         }
+        l.add(new ArrayList<>(Arrays.asList(st,lastend)));
 
-       ans.add(new ArrayList<>(Arrays.asList(st,ed)));
-
-        int[][] arr = new int[ans.size()][2];
+        int len=l.size();
+        int[][] ans=new int[len][2];
         int idx=0;
-        for(List<Integer> x :ans){
-            arr[idx][0]=x.get(0);
-            arr[idx][1]=x.get(1);
-            idx++;
+        for(List<Integer> x: l){
+            ans[idx][0]=x.get(0);
+            ans[idx++][1]=x.get(1);
         }
-        return arr;
+        return ans;
+        
     }
 }
