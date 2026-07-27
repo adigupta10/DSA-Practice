@@ -106,6 +106,7 @@ Email-adigupta7611@gmail.com
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/adigupta10/DSA-Practice/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -122,6 +123,7 @@ Email-adigupta7611@gmail.com
 | [0778-swim-in-rising-water](https://github.com/adigupta10/DSA-Practice/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/adigupta10/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/adigupta10/DSA-Practice/tree/main/1094-car-pooling/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Email-adigupta7611@gmail.com
 | [1331-rank-transform-of-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/adigupta10/DSA-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adigupta10/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adigupta10/DSA-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adigupta10/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
