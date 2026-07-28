@@ -83,6 +83,7 @@ Email-adigupta7611@gmail.com
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Email-adigupta7611@gmail.com
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -693,4 +695,8 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adigupta10/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adigupta10/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
