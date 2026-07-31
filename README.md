@@ -83,6 +83,7 @@ Email-adigupta7611@gmail.com
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -500,6 +501,7 @@ Email-adigupta7611@gmail.com
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adigupta10/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adigupta10/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adigupta10/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search Tree
@@ -538,6 +540,7 @@ Email-adigupta7611@gmail.com
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
