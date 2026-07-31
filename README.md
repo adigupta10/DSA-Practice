@@ -53,6 +53,7 @@ Email-adigupta7611@gmail.com
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adigupta10/DSA-Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/adigupta10/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adigupta10/DSA-Practice/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Email-adigupta7611@gmail.com
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Email-adigupta7611@gmail.com
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -144,6 +147,7 @@ Email-adigupta7611@gmail.com
 | [0992-subarrays-with-k-different-integers](https://github.com/adigupta10/DSA-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/adigupta10/DSA-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +545,7 @@ Email-adigupta7611@gmail.com
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
