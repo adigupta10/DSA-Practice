@@ -15,16 +15,8 @@ class Solution {
                 }
                 left++;
             }
-            if(k==0){
-                maxi=Math.max(maxi,right-left);
-            }
-            else{
-                maxi=Math.max(maxi,right-left+1);
-            }
+            maxi=Math.max(maxi,right-left);
             right++;
-        }
-        if(k==1 && maxi!=0){
-            return  maxi-1;
         }
         return maxi;
     }
