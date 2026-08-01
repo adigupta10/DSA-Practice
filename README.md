@@ -211,6 +211,7 @@ Email-adigupta7611@gmail.com
 | [0416-partition-equal-subset-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adigupta10/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/adigupta10/DSA-Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0525-contiguous-array](https://github.com/adigupta10/DSA-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/adigupta10/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -462,6 +463,7 @@ Email-adigupta7611@gmail.com
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/adigupta10/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/adigupta10/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -501,6 +503,7 @@ Email-adigupta7611@gmail.com
 | [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/adigupta10/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0400-nth-digit](https://github.com/adigupta10/DSA-Practice/tree/main/0400-nth-digit/) | Medium |
+| [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adigupta10/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -662,6 +665,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/adigupta10/DSA-Practice/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,6 +675,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/adigupta10/DSA-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0224-basic-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0224-basic-calculator/) | Hard |
+| [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
