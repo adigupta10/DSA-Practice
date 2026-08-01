@@ -125,6 +125,7 @@ Email-adigupta7611@gmail.com
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adigupta10/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adigupta10/DSA-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adigupta10/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -164,6 +165,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/adigupta10/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/adigupta10/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/adigupta10/DSA-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -207,6 +209,7 @@ Email-adigupta7611@gmail.com
 | [0213-house-robber-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/adigupta10/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0229-majority-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/adigupta10/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/adigupta10/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adigupta10/DSA-Practice/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -706,6 +709,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adigupta10/DSA-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/adigupta10/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/adigupta10/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,4 +730,8 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adigupta10/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
