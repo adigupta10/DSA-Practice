@@ -24,6 +24,7 @@ Email-adigupta7611@gmail.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/adigupta10/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/adigupta10/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/adigupta10/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -58,6 +59,7 @@ Email-adigupta7611@gmail.com
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/adigupta10/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/adigupta10/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0072-edit-distance](https://github.com/adigupta10/DSA-Practice/tree/main/0072-edit-distance/) | Medium |
@@ -160,6 +162,7 @@ Email-adigupta7611@gmail.com
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adigupta10/DSA-Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/adigupta10/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
