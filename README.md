@@ -84,6 +84,7 @@ Email-adigupta7611@gmail.com
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adigupta10/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adigupta10/DSA-Practice/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -546,6 +547,7 @@ Email-adigupta7611@gmail.com
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adigupta10/DSA-Practice/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -652,6 +654,7 @@ Email-adigupta7611@gmail.com
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/adigupta10/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adigupta10/DSA-Practice/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2951-find-the-peaks](https://github.com/adigupta10/DSA-Practice/tree/main/2951-find-the-peaks/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
