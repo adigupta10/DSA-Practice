@@ -4,9 +4,10 @@ class Solution {
         int n=arr.length;
         int count=0;
         int sum=0;
+        map.put(0,1);
         for(int i=0;i<n;i++){
             sum+=arr[i];
-            if(sum==k) count++;
+          //  if(sum==k) count++;
             if(map.containsKey(sum-k)){
                 count+=map.get(sum-k);
             }
