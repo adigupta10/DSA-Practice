@@ -123,6 +123,7 @@ Email-adigupta7611@gmail.com
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adigupta10/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adigupta10/DSA-Practice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/adigupta10/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/adigupta10/DSA-Practice/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adigupta10/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -289,6 +290,7 @@ Email-adigupta7611@gmail.com
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/adigupta10/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/adigupta10/DSA-Practice/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adigupta10/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/adigupta10/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -579,6 +581,7 @@ Email-adigupta7611@gmail.com
 | [1328-break-a-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1328-break-a-palindrome/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/adigupta10/DSA-Practice/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/adigupta10/DSA-Practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/adigupta10/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adigupta10/DSA-Practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/adigupta10/DSA-Practice/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -755,6 +758,7 @@ Email-adigupta7611@gmail.com
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/adigupta10/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
