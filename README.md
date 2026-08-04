@@ -58,6 +58,7 @@ Email-adigupta7611@gmail.com
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adigupta10/DSA-Practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adigupta10/DSA-Practice/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+| [3731-find-missing-elements](https://github.com/adigupta10/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Email-adigupta7611@gmail.com
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adigupta10/DSA-Practice/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adigupta10/DSA-Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adigupta10/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/adigupta10/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ Email-adigupta7611@gmail.com
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/adigupta10/DSA-Practice/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adigupta10/DSA-Practice/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adigupta10/DSA-Practice/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
+| [3731-find-missing-elements](https://github.com/adigupta10/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
