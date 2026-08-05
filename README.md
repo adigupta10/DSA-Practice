@@ -399,6 +399,7 @@ Email-adigupta7611@gmail.com
 | [1020-number-of-enclaves](https://github.com/adigupta10/DSA-Practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/adigupta10/DSA-Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +422,7 @@ Email-adigupta7611@gmail.com
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adigupta10/DSA-Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/adigupta10/DSA-Practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/adigupta10/DSA-Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,6 +622,7 @@ Email-adigupta7611@gmail.com
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adigupta10/DSA-Practice/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/adigupta10/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adigupta10/DSA-Practice/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/adigupta10/DSA-Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
