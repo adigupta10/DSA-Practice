@@ -552,6 +552,7 @@ Email-adigupta7611@gmail.com
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adigupta10/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adigupta10/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adigupta10/DSA-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adigupta10/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adigupta10/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search Tree
@@ -707,6 +708,7 @@ Email-adigupta7611@gmail.com
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/adigupta10/DSA-Practice/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/adigupta10/DSA-Practice/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2951-find-the-peaks](https://github.com/adigupta10/DSA-Practice/tree/main/2951-find-the-peaks/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adigupta10/DSA-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
