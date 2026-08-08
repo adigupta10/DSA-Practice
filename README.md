@@ -510,6 +510,7 @@ Email-adigupta7611@gmail.com
 | [0931-minimum-falling-path-sum](https://github.com/adigupta10/DSA-Practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/adigupta10/DSA-Practice/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/adigupta10/DSA-Practice/tree/main/1048-longest-string-chain/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/adigupta10/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/adigupta10/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adigupta10/DSA-Practice/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adigupta10/DSA-Practice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -546,6 +547,7 @@ Email-adigupta7611@gmail.com
 | [0486-predict-the-winner](https://github.com/adigupta10/DSA-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/adigupta10/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/adigupta10/DSA-Practice/tree/main/0991-broken-calculator/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/adigupta10/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/adigupta10/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adigupta10/DSA-Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adigupta10/DSA-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -649,6 +651,7 @@ Email-adigupta7611@gmail.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adigupta10/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/adigupta10/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
