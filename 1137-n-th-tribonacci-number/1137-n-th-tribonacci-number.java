@@ -1,17 +1,14 @@
 class Solution {
+    static int[] dp;
     public int tribonacci(int n) {
-        if(n==0) return 0;
+        dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return solve(n);
+    }
+    public static int solve(int n){
+         if(n==0) return 0;
         if(n==1 || n==2) return 1;
-        int a=0;
-        int b=1;
-        int c=1;
-        int sum=0;
-        for(int i=2;i<n;i++){
-            sum=a+b+c;
-            a=b;
-            b=c;
-            c=sum;
-        }
-        return sum;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=solve(n-1)+solve(n-2)+solve(n-3);
     }
 }
